@@ -10,7 +10,7 @@ Deployed at: https://ehg-rgb-code-test.netlify.app
 2. To install the dependencies, in the project root directory, run command: 
 ```
 npm install
-# or yarn start
+# or yarn install
 ```
 3. To start the project, run command:
 ```
