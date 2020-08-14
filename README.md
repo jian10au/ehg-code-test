@@ -7,7 +7,12 @@ Deployed at: https://ehg-rgb-code-test.netlify.app
 * To run the app in the local environment: 
 
 1. clone the project into your local machine.
-2. In the project root directory, run command: 
+2. To install the dependencies, in the project root directory, run command: 
+```
+npm install
+# or yarn start
+```
+3. To start the project, run command:
 ```
 npm start
 # or yarn start
