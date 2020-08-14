@@ -17,4 +17,4 @@ npm install
 npm start
 # or yarn start
 ```
-3. App will be run at localhost:3000 (which is the default setting of create-react-app)
+4. App will be run at localhost:3000 (which is the default setting of create-react-app)
