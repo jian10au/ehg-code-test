@@ -5,6 +5,7 @@ import Canvas from "./components/Canvas";
 function App() {
   return (
     <div className="App">
+      {/* use canvas api to draw the image */}
       <Canvas className="colorArea" />
       <p>
         Image with 32768 RGB colours - by Brian Jian Zhao for EHG code test ©{" "}
