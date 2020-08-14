@@ -1,2 +1,3 @@
-The submission is made for EHG code test:
+The submission is made for EHG code test.
+
 
